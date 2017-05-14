@@ -1,0 +1,22 @@
+header a {
+   font-weight: bold;
+   text-decoration: none;
+}
+
+/* the website's name on the header */
+.title {
+   display: inline-block;
+   line-height: 0.5em;
+}
+
+.title a {
+   color: #e74c3c;
+}
+
+.title a:hover {
+   color: #000;
+}
+
+.title {
+   margin-top: .4em;
+}

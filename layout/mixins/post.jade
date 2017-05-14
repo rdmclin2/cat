@@ -1,0 +1,20 @@
+mixin postInfo(item)
+    != full_date(item.date, 'DD MMM YYYY')
+
+//- Index Page
+mixin posts()
+    ul.posts
+        - page.posts.each(function (item) {
+            li
+                span >&nbsp
+                    +postInfo(item)
+                a(href= url_for(item.path))
+                    != item.title
+        - })
+
+//- Post Page
+mixin post(item)
+    article
+        h2!= item.title
+        .post-content
+            != item.content

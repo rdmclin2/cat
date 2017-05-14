@@ -1,0 +1,17 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Rss: /atom.xml
+
+# Comment
+# e.g disqus: seansun
+# disqus: 
+
+# Analytics
+# google-analytics:
+# ga: 
+# baidu-analytics:
+# ba: 
+
+# Copyright Infomation
+startyear: 2015
