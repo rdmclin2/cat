@@ -7,7 +7,7 @@ $ hexo init Blog
 $ cd Blog
 $ npm install
 $ npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
-$ git clone git@github.com:rdmclin2/hexo-theme-cat.git
+$ git clone git@github.com:rdmclin2/cat.git
 ```
 
 ## 启用
