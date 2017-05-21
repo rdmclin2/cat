@@ -1,4 +1,4 @@
-![](http://ww3.sinaimg.cn/large/006tNc79gy1fft708msr8j31kw0mwdh4.jpg)
+![](http://ww4.sinaimg.cn/large/006tNc79gy1fft76oi6ipj316s0lm0x7.jpg)
 
 ## 安装
 
